@@ -1,4 +1,7 @@
 # 适配0.57.1
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/onemolegames/onemolegames)
 
